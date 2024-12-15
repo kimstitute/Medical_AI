@@ -1,0 +1,9 @@
+ptyhon-dotenv
+openai~=1.57.4
+langChain~=0.3.12
+langChain-openai
+streamlit~=1.39.0
+python-dotenv~=1.0.1
+tqdm~=4.66.5
+aiohttp~=3.10.10
+asyncio~=3.4.3
