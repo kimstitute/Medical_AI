@@ -8,3 +8,4 @@ aiohttp~=3.10.10
 asyncio~=3.4.3
 langchain-community
 pinecone-client
+google-api-python-client
