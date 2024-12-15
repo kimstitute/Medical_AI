@@ -1,4 +1,3 @@
-ptyhon-dotenv
 openai~=1.57.4
 langChain~=0.3.12
 langChain-openai
