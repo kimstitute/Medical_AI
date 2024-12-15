@@ -7,4 +7,5 @@ tqdm~=4.66.5
 aiohttp~=3.10.10
 asyncio~=3.4.3
 langchain-community
-Pinecone
+pinecone
+pinecone-client
