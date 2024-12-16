@@ -118,7 +118,7 @@ def get_gpt_response(prompt):
 
 
 # ReAct 방법론을 사용해서 응답을 출력하는 함수
-def get_react_response(subject):  # 매개변수는 사용자 입력 프롬프트와 RAG 사용 여부
+def get_react_response(subject):  # 매개변수는 사용자 입력 프롬프트와
     try:
         global PROMPT_FOR_LLM
         PROMPT_FOR_LLM = PROMPT_FOR_LLM_UNLIMITED
